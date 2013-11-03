@@ -12,4 +12,4 @@ Fractalmaker
 ### Run
 
     cd build
-    ./fractalgenerator -s ../src/samples/TestFractal.fractal -n 1 -p 0
+    ./fractalgenerator -p 0 -n 1 -s ../src/samples/Mandelbrot.fractal
