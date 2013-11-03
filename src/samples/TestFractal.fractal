@@ -1,0 +1,14 @@
+1
+TestFractal0000.tga
+1000 1000
+add(cos(mul(Z,J1)),mul(C,J2))
+2
+J1 0 1 2 (1.5,1.0) add(J1,JJ) 1 JJ (0.01,0.01)
+J2 0 1 0 (0.02,0.01)
+Region ../src/samples/regionmakertestoutput.regionvar
+sin(mul(IT,A)) cos(mul(IT,B)) cos(mul(IT,C))
+3
+A 0 1 0 (0.2,0.2)
+B 0 1 2 (0.4,0.3) add(B,BB) 1 BB (0.01,0.01)
+C 0 1 2 (0.5,0.1) add(C,CC) 1 CC (-0.01,-0.01)
+

@@ -1,0 +1,12 @@
+100
+TestFractal0000.tga
+100 150
+add(pow(Z,real(X)),C)
+1
+X 0 1 2 (2,0) add(polar(add(mul(add(arg(sub(X,CC)),AL),IM),sqrt(norm(sub(X,CC))))),CC) 3 CC (4,0) AL (-0.0314159,0) IM (0,1)
+Region ../src/Circle/regionmakertestoutput.regionvar
+mul(IT,A) B sin(IT)
+2
+A 0 1 0 (0.1,0)
+B 0 1 0 (0.001,0) 
+
